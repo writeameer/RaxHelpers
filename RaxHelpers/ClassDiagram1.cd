@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RAXHelpers.AuthClient">
+    <Position X="8.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAACAAEAIAAAAAAAA=</HashCode>
+      <FileName>AuthClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAXHelpers.CdnsClient">
+    <Position X="3.5" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgEAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>CdnsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAXHelpers.ClbClient">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIEAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAg=</HashCode>
+      <FileName>ClbClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAXHelpers.CloudServerClient">
+    <Position X="0.75" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAk=</HashCode>
+      <FileName>CloudServerClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAXHelpers.RaxClient">
+    <Position X="3.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAgAAgAAECAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>RaxClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RAXHelpers.Utils">
+    <Position X="11" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

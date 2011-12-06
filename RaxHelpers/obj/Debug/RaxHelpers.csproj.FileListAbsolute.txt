@@ -1,0 +1,10 @@
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\bin\Debug\RaxHelpers.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\bin\Debug\RaxHelpers.pdb
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\RaxHelpers.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\RaxHelpers.pdb
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\RaxHelpers.csprojResolveAssemblyReference.cache
+C:\progs\RaxHelpers\RaxHelpers\bin\Debug\RaxHelpers.dll
+C:\progs\RaxHelpers\RaxHelpers\bin\Debug\RaxHelpers.pdb
+C:\progs\RaxHelpers\RaxHelpers\obj\Debug\RaxHelpers.csprojResolveAssemblyReference.cache
+C:\progs\RaxHelpers\RaxHelpers\obj\Debug\RaxHelpers.dll
+C:\progs\RaxHelpers\RaxHelpers\obj\Debug\RaxHelpers.pdb

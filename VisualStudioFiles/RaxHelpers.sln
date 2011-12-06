@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaxHelpers", "..\RaxHelpers\RaxHelpers.csproj", "{99CE021F-E853-425E-B3D7-04165A0E2427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaxHelpers.Test", "..\RaxHelpers.Test\RaxHelpers.Test.csproj", "{608B21AB-7765-4F4B-A154-6B70C4B2A724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99CE021F-E853-425E-B3D7-04165A0E2427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CE021F-E853-425E-B3D7-04165A0E2427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CE021F-E853-425E-B3D7-04165A0E2427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CE021F-E853-425E-B3D7-04165A0E2427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608B21AB-7765-4F4B-A154-6B70C4B2A724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608B21AB-7765-4F4B-A154-6B70C4B2A724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608B21AB-7765-4F4B-A154-6B70C4B2A724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608B21AB-7765-4F4B-A154-6B70C4B2A724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

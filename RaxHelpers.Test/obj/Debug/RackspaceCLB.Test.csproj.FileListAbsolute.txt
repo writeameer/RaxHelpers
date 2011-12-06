@@ -1,0 +1,8 @@
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\ResolveAssemblyReference.cache
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RackspaceCLB.Test.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RackspaceCLB.Test.pdb
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\nunit.framework.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RackspaceCLB.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RackspaceCLB.pdb
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\RackspaceCLB.Test.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\RackspaceCLB.Test.pdb

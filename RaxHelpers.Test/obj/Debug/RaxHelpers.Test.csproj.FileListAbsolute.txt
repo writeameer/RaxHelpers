@@ -1,0 +1,16 @@
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\nunit.framework.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RaxHelpers.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RaxHelpers.pdb
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\RaxHelpers.Test.csprojResolveAssemblyReference.cache
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RaxHelpers.Test.dll
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\bin\Debug\RaxHelpers.Test.pdb
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\RaxHelpers.Test.dll
+C:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB.Test\obj\Debug\RaxHelpers.Test.pdb
+C:\progs\RaxHelpers\RaxHelpers.Test\bin\Debug\RaxHelpers.Test.dll
+C:\progs\RaxHelpers\RaxHelpers.Test\bin\Debug\RaxHelpers.Test.pdb
+C:\progs\RaxHelpers\RaxHelpers.Test\bin\Debug\nunit.framework.dll
+C:\progs\RaxHelpers\RaxHelpers.Test\bin\Debug\RaxHelpers.dll
+C:\progs\RaxHelpers\RaxHelpers.Test\bin\Debug\RaxHelpers.pdb
+C:\progs\RaxHelpers\RaxHelpers.Test\obj\Debug\RaxHelpers.Test.csprojResolveAssemblyReference.cache
+C:\progs\RaxHelpers\RaxHelpers.Test\obj\Debug\RaxHelpers.Test.dll
+C:\progs\RaxHelpers\RaxHelpers.Test\obj\Debug\RaxHelpers.Test.pdb

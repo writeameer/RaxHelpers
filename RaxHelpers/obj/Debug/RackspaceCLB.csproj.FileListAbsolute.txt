@@ -1,0 +1,5 @@
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\ResolveAssemblyReference.cache
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\bin\Debug\RackspaceCLB.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\bin\Debug\RackspaceCLB.pdb
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\RackspaceCLB.dll
+c:\Progs\RackspaceCLB\RackspaceCLB\RackspaceCLB\obj\Debug\RackspaceCLB.pdb
