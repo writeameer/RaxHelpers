@@ -14,7 +14,7 @@ namespace WriteAmeer.RaxHelpers
         public ClbClient(string clbRegion, string accountId, string authToken)
         {
             // Validate Clb Region
-            if (!_validRegions.Contains(clbRegion))   throw new Exception("Property value must be " + _validRegions);
+            if (!_validRegions.Contains(clbRegion))   throw new Exception("Property value must be one of: " + string.Join(",",_validRegions.ToArray()));
  
             AuthToken = authToken;
             AccountId = accountId;

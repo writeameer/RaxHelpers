@@ -30,7 +30,7 @@ namespace RaxHelpers.Test
 
             // Create Cloud Load Balancer Client
             _clbClient = new ClbClient (
-                clbRegion:"ord",
+                clbRegion:"ord1",
                 accountId: accountId,
                 authToken: authToken
             );
